@@ -12,6 +12,8 @@ Travelling Salesman can be parallelised easily if necessary.
 
 NaiveBayesClassifier code is a bit obtuse. Maybe there is a better way to preprocess the data?
 
+Decision Tree is far from finished. 
 
 # Sidenotes
-Graphic representation of the k-means result is given in a Mathematica notebook file. Change the directory variable to correspond with the location of the compiled c++ k-means executable. 
+Graphic representation of the k-means result is given in a Mathematica notebook file. Change the directory variable to correspond with the location of the compiled c++ k-means executable.
+The main files may include commented tests.
